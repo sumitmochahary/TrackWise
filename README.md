@@ -1,4 +1,4 @@
-## 🚀 TrackWise – Tracking System
+## 🚀 TrackWise – Employee Tracking System
 
 TrackWise is a learning-based full-stack project built to understand
 real-world employee management systems.
