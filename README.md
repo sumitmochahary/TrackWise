@@ -1,16 +1,35 @@
-## 🚀 TrackWise – Employee Tracking System
+# TrackWise 🕒
 
-TrackWise is a learning-based full-stack project built to understand
-real-world employee management systems.
+TrackWise is a beginner-friendly employee tracking web application built to learn full-stack development and SDLC concepts.
 
-### 🎯 Goals of this Project
+## 🎯 Purpose
 
-- Learn full-stack development with real use cases
-- Understand system design and workflows
-- Practice backend APIs, authentication, and databases
-- Improve Git & project documentation skills
+This project is created to:
 
-### 📌 Learning Approach
+- Learn React and Node.js
+- Understand how frontend and backend work together
+- Practice real-world project structure and documentation
 
-This project is built step-by-step.
-Daily learnings, decisions, and challenges are documented inside `/docs`.
+## ✨ Features
+
+- User authentication (login/signup)
+- Employee attendance tracking
+- Work log management (planned)
+- Admin dashboard (planned)
+
+## 🛠 Tech Stack
+
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express
+- Database: MongoDB
+
+## ▶️ How to Run (Later)
+
+Steps will be added once development starts.
+
+## 📚 What I Am Learning
+
+- Full SDLC process
+- REST APIs
+- Authentication
+- Database design
