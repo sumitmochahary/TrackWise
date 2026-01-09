@@ -4,7 +4,7 @@ TrackWise is a beginner-friendly employee tracking web application built to lear
 
 ## 🎯 Purpose
 
-This project is created to::
+This project is created to:
 
 - Learn React and Node.js
 - Understand how frontend and backend work together
